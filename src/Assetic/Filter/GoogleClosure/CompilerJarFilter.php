@@ -13,7 +13,7 @@ namespace Assetic\Filter\GoogleClosure;
 
 use Assetic\Asset\AssetInterface;
 use Assetic\Exception\FilterException;
-use Symfony\Component\Process\ProcessBuilder;
+use Assetic\Util\ProcessBuilder;
 
 /**
  * Filter for the Google Closure Compiler JAR.

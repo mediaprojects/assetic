@@ -14,7 +14,7 @@ namespace Assetic\Filter\Sass;
 use Assetic\Asset\AssetInterface;
 use Assetic\Filter\FilterInterface;
 use Assetic\Exception\FilterException;
-use Symfony\Component\Process\ProcessBuilder;
+use Assetic\Util\ProcessBuilder;
 
 /**
  * Loads SASS files.
