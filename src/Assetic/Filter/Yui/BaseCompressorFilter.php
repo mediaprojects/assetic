@@ -14,7 +14,7 @@ namespace Assetic\Filter\Yui;
 use Assetic\Asset\AssetInterface;
 use Assetic\Filter\FilterInterface;
 use Assetic\Exception\FilterException;
-use Symfony\Component\Process\ProcessBuilder;
+use Assetic\Util\ProcessBuilder;
 
 /**
  * Base YUI compressor filter.
